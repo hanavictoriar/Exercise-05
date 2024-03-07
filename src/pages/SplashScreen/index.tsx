@@ -24,4 +24,4 @@ const styles = StyleSheet.create ({
         fontSize: 32,
         fontFamily: 'Poppins-Medium',
     },
-});
+});4
