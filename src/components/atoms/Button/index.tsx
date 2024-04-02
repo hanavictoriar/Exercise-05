@@ -1,7 +1,6 @@
-import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
+import {StyleSheet, Text, TouchableOpacity} from 'react-native';
 import React from 'react';
-import IconOnly from './IconOnly';
-import {BackButton, Logo} from '../../../assets/icon';
+import {BackButton} from '../../../assets/icon';
 
 const index = ({
   label,

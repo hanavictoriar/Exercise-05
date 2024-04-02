@@ -2,7 +2,7 @@ import {StyleSheet, View, ScrollView} from 'react-native';
 import React from 'react';
 import {Button, Gap, PageHeader, TextInput} from '../../components';
 
-const SignIn = ({navigation}) => {
+const Signin = ({navigation}) => {
   return (
     <ScrollView style={styles.container}>
       <PageHeader label="Sign In" backButton={false} />
@@ -29,7 +29,7 @@ const SignIn = ({navigation}) => {
   );
 };
 
-export default SignIn;
+export default Signin;
 
 const styles = StyleSheet.create({
   container: {
